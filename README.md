@@ -20,8 +20,8 @@
 ## `> whoami`
 
 ```yaml
-name: Rishi Ankur Kumar Modi
-university: VIT Bhopal University
+name: Rishi AnkurKumar Modi
+university: Vellore Institute of Technology
 degree: B.Tech Computer Science and Engineering
 status: Undergraduate Student
 interests:
