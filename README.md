@@ -7,37 +7,43 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Vellore_Institute_of_Technology-0A0F1E?style=for-the-badge&logo=academia&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/B.Tech-CSE-0A0F1E?style=for-the-badge&logoColor=B388FF&labelColor=0A0F1E&color=B388FF" />
+<img src="https://img.shields.io/badge/B.Tech-CSE-0A0F1E?style=for-the-badge&labelColor=0A0F1E&color=B388FF" />
 <img src="https://img.shields.io/badge/Open_Source-Getting_Started-0A0F1E?style=for-the-badge&logo=github&logoColor=00E5FF" />
 
 <img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
-## `> whoami`
+<img src="./assets/h-whoami.svg" alt="whoami" width="100%"/>
 
 ```yaml
-name:      Rishi Ankur Kumar Modi
+name:       Rishi Ankur Kumar Modi
 university: Vellore Institute of Technology
-degree:    B.Tech Computer Science & Engineering
-interests: [Software Development, AI, DSA, Creative Projects]
-learning:  [Advanced Programming, Full Stack Development, Problem Solving]
-mindset:   Learn | Build | Improve | Repeat
+degree:     B.Tech Computer Science & Engineering
+interests:  [Software Development, AI, DSA, Creative Projects]
+learning:   [Advanced Programming, Full Stack Development, Problem Solving]
+mindset:    Learn | Build | Improve | Repeat
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/h-terminal.svg" alt="terminal" width="100%"/>
 
-## `> tech-stack`
+<div align="center">
+<img src="./assets/terminal.svg" alt="terminal boot sequence" width="100%"/>
+</div>
+
+<img src="./assets/h-stack.svg" alt="tech-stack" width="100%"/>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 
+<br/><br/>
+
+<img src="./assets/stack.svg" alt="skill levels" width="100%"/>
+
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
-
-## `> featured-projects`
+<img src="./assets/h-projects.svg" alt="featured-projects" width="100%"/>
 
 <div align="center">
 
@@ -48,9 +54,7 @@ mindset:   Learn | Build | Improve | Repeat
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
-
-## `> github-stats`
+<img src="./assets/h-stats.svg" alt="github-stats" width="100%"/>
 
 <div align="center">
 
@@ -63,9 +67,7 @@ mindset:   Learn | Build | Improve | Repeat
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
-
-## `> contribution-snake`
+<img src="./assets/h-snake.svg" alt="contribution-snake" width="100%"/>
 
 <div align="center">
 
@@ -76,33 +78,20 @@ mindset:   Learn | Build | Improve | Repeat
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
-
-## `> currently`
+<img src="./assets/h-currently.svg" alt="currently" width="100%"/>
 
 - 🔭 Contributing to open source: **edulinkup-interns / resume-json-generator**
 - 🌱 Learning: Full Stack Development & Advanced Python
 - 🧩 Sharpening: Data Structures & Algorithms
 
-```js
-class Developer {
-  constructor() {
-    this.name  = "Rishi";
-    this.focus = ["Code", "Create", "Innovate"];
-  }
-  dailyRoutine() { while (true) { this.learn(); this.build(); this.improve(); } }
-}
-```
-
 <div align="center">
 
-<img src="./assets/divider.svg" width="100%"/>
-
-*"Great things are built one line of code at a time."*
+<br/>
 
 <a href="https://github.com/RishModi"><img src="https://img.shields.io/badge/GitHub-RishModi-0A0F1E?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<!-- Add yours: -->
 <!-- <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a> -->
 <!-- <a href="mailto:YOUR@EMAIL"><img src="https://img.shields.io/badge/Email-Contact-0A0F1E?style=for-the-badge&logo=gmail&logoColor=B388FF" /></a> -->
+
+<img src="./assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
