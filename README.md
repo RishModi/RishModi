@@ -17,7 +17,7 @@
 <img src="./assets/h-whoami.svg" alt="whoami" width="100%"/>
 
 ```yaml
-name:       Rishi Ankur Kumar Modi
+name:       Rishi AnkurKumar Modi
 university: Vellore Institute of Technology
 degree:     B.Tech Computer Science & Engineering
 interests:  [Software Development, AI, DSA, Creative Projects]
